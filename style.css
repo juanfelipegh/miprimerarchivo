@@ -1,0 +1,21 @@
+.texto{
+    position: absolute;
+margin-top: 50px;
+margin-left: 30px;
+margin-right: 50px;
+}
+body{
+   
+  background: url(img/pisarra.jpg);
+}
+.tablero{
+    margin-top: 50px;
+}
+.img{
+    width:100%;
+    float: left;
+}
+.dropdown{
+    
+    
+}
